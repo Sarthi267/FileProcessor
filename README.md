@@ -15,7 +15,7 @@ How to run this program:
 git clone https://github.com/Sarthi267/FileProcessor.git  
 2. Move into the project directory:  
 cd FileProcessor 
-3. Create a folder titled "input", "output", and "processed" folders will be created automatically after running
+3. Create a folder titled "input", ("output", and "processed" folders will be created automatically after running)
 4. Drop any .txt files you want processed into the input/ folder  
 5. Compile javac -cp . src/com/fileprocessor/*.java -d out  
 6. Run:  
