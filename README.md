@@ -1,8 +1,8 @@
 ### File Processing System  
 
-A program that utilizes Java concurrency to receive text files from the user and process them to write reports of the number of lines, words, and character count in the document.  
+A program that uses Java concurrency to receive text files from the user and process them to write reports of the number of lines, words, and character count in the document.  
 ***
-This project is built as a beginner Java project to practice concurrency, more specifically, Executor Service, virtual threads, locks, and receiving input from the user beyond terminal entries.
+This project is built as a beginner Java project to practice executor service, virtual threads, locks, and receiving input from the user beyond terminal entries.
 ***
 Example of a report:  
 File: test.txt | Lines: 8 | Words: 127 | Characters: 681  
